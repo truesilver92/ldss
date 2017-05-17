@@ -1,0 +1,125 @@
+42762:Music:/music
+
+# Book of Mormon
+bofm:bom:book of mormon:/scriptures/bofm
+/([1-4])( |-)?ne(phi)?/:/scriptures/bofm/${1}-ne#
+jacob:/scriptures/bofm/jacob#
+enos:/scriptures/bofm/enos#1
+jarom:jar:/scriptures/bofm/jarom#1
+omni:/scriptures/bofm/omni#1
+/w(ords)?( |-)?o(f)?( |-)?m(or(m(on)?)?)?/:/scriptures/bofm/w-of-m/1
+mosiah:mos:/scriptures/bofm/mosiah#
+alma:/scriptures/bofm/alma#
+helaman:hel:/scriptures/bofm/hel#
+mormon:morm:/scriptures/bofm/morm#
+ether:eth:/scriptures/bofm/ether#
+moroni:moro:mor:/scriptures/bofm/moro#
+/(bofm|bom|book of mormon) (pron|pronounciation( guide)?)/:/scriptures/bofm/pronunciation
+
+# New Testament
+new testament:nt:/scriptures/nt
+new testament title:nt title:/scriptures/nt/title-page
+matthew:matt:/scriptures/nt/matt#
+mark:/scriptures/nt/mark#
+luke:/scriptures/nt/luke#
+john:/scriptures/nt/john#
+acts:act:/scriptures/nt/acts#
+romans:rom:/scriptures/nt/rom#
+/([1-2])( |-)?(cor(inthians)?)/:/scriptures/nt/${1}-cor#
+galatians:gal:/scriptures/nt/gal#
+ephesians:eph:/scriptures/nt/eph#
+philippians:philip:/scriptures/nt/philip#
+colossians:col:/scriptures/nt/col#
+/([1-2])( |-)?(thes(salonians)?)/:/scriptures/nt/${1}-thes#
+/([1-2])( |-)?(tim(othy)?)/:/scriptures/nt/${1}-tim#
+titus:/scriptures/nt/titus#
+philemon:philem:phil:/scriptures/nt/philem#
+hebrews:hebrew:heb:/scriptures/nt/heb#
+james:/scriptures/nt/james#
+/([1-2])( |-)?(pet(er)?)/:/scriptures/nt/${1}-pet#
+/([1-2])( |-)?(tim(othy)?)/:/scriptures/nt/${1}-tim#
+/([1-3])( |-)?(john|jn|jon)/:/scriptures/nt/${1}-jn#
+jude:/scriptures/nt/jude#1
+revelation:rev:/scriptures/nt/rev#
+
+# Old Testament
+old testament:ot:/scriptures/ot
+old testament title:ot title:/scriptures/ot/title-page
+genesis:gen:/scriptures/ot/gen#
+exodus:ex:/scriptures/ot/ex#
+leviticus:lev:/scriptures/ot/lev#
+numbers:num:/scriptures/ot/num#
+deuteronomy:deut:/scriptures/ot/deut#
+joshua:josh:/scriptures/ot/josh#
+judges:judg:/scriptures/ot/judg#
+ruth:/scriptures/ot/ruth#
+/([1-2])( |-)?(sam(uel)?)/:/scriptures/ot/${1}-sam#
+/([1-2])( |-)?(kgs|kings)/:/scriptures/ot/${1}-kgs#
+/([1-2])( |-)?(chr(onicles)?)/:/scriptures/ot/${1}-chr#
+ezra:/scriptures/ot/ezra#
+nehemiah:neh:/scriptures/ot/neh#
+esther:ester:esth:/scriptures/ot/esth#
+job:/scriptures/ot/job#
+psalms:psalm:ps:/scriptures/ot/ps#
+proverbs:prov:/scriptures/ot/prov#
+ecclesiasties:eccl:/scriptures/ot/ecll#
+song of solomon:sofs:s of s:song:/scriptures/ot/song#
+isaiah:isa:/scriptures/ot/isa#
+jeremiah:jer:/scriptures/ot/jer#
+lamentations:lamentation:lam:/scriptures/ot/lam#
+ezekiel:ezek:ezk:/scriptures/ot/ezk#
+daniel:dan:/scriptures/ot/dan#
+hosea:/scriptures/ot/hosea#
+joel:/scriptures/ot/joel#
+amos:/scriptures/ot/amos#
+obadiah:obad:/scriptures/ot/obad#1
+jonah:/scriptures/ot/jonah#
+micah:/scriptures/ot/micah#
+nahum:/scriptures/ot/nahum#
+habakkuk:hab:/scriptures/ot/hab#
+zephaniah:zeph:/scriptures/ot/zeph#
+haggai:hag:/scriptures/ot/hag#
+zechariah:zech:/scriptures/ot/zech#
+malachi:mal:/scriptures/ot/mal#
+
+# D&C
+dc:d&c:doctrine and covenants:/scriptures/dc-testament/dc#
+dc od:d&c od:doctrine and covenants official declaration:/scriptures/dc
+
+# Pearl of Great Price
+pearl of great price:pgp:/scriptures/pgp
+pearl of great price title:pgp title:/scriptures/pgp/introduction
+moses:mose:/scriptures/pgp/moses#
+abraham:abr:/scriptures/pgp/abr#
+/(joseph smith|js)( |\-|\-\-|—)?m(atthew|att)/:/scriptures/pgp/js-m/1
+/(joseph smith|js)( |\-|\-\-|—)?h(istory)?/:/scriptures/pgp/js-h/1
+
+# Institute Manuels
+
+
+# General Conference
+42677:General Conference:/general-conference
+/(general conference|gc)( )?(april|apr|4|04)( )?([0-9]+)/:/general-conference/${5}/04
+/(general conference|gc)( )?(october|oct|10)( )?([0-9]+)/:/general-conference/${5}/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
